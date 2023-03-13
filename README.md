@@ -20,7 +20,7 @@
 📫 How to reach me **preetikushwaha0110@gmail.com**
 
 ⚡ Fun fact **I think I am Funny**
-<h3>PortFolio:</h3>https://preetuuppp-github-io.vercel.app/
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
