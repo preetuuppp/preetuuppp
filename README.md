@@ -21,7 +21,7 @@
 
 ⚡ Fun fact **I think I am Funny**
  
- 📫 <h3>PortFolio:</h3> https://preetuuppp.github.io/
+ 📫 PortFolio https://preetuuppp.github.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
