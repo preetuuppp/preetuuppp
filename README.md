@@ -20,6 +20,9 @@
 📫 How to reach me **preetikushwaha0110@gmail.com**
 
 ⚡ Fun fact **I think I am Funny**
+
+
+🎯 Linkdin https://www.linkedin.com/in/preeti-kushwaha/
  
  📫 PortFolio https://preetuuppp.github.io/
 
