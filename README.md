@@ -24,7 +24,7 @@
 
 🎯 Linkdin https://www.linkedin.com/in/preeti-kushwaha/
  
- 📫 PortFolio https://preetuuppp.github.io/
+ 📫 PortFolio "https://preetuuppp.github.io/"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
