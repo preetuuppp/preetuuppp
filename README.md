@@ -3,7 +3,7 @@
 <img  src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif"/>
 <h1 align="center">Hi 👋, I'm Preeti Kushwaha</h1>
 
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+<h3 align="center">A Passionate Fron-End Developer from India</h3>
 <div align="center">
 <img  alt="coding" width="400" src="https://vidhi-mody.github.io/img/contribute.gif"/>
 </div>
